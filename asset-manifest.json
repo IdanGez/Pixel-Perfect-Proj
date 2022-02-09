@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Pixel-Perfect-Proj/static/css/main.a767ade8.css",
+    "main.js": "/Pixel-Perfect-Proj/static/js/main.94b178ab.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Pixel-Perfect-Proj/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Livvic-MediumItalic.ttf": "/Pixel-Perfect-Proj/static/media/Livvic-MediumItalic.322c259ca699cbf97535.ttf",
+    "static/media/Livvic-Bold.ttf": "/Pixel-Perfect-Proj/static/media/Livvic-Bold.99c1f3eca17e305cc238.ttf",
+    "static/media/Livvic-SemiBold.ttf": "/Pixel-Perfect-Proj/static/media/Livvic-SemiBold.7ac51cb6e41adefeba08.ttf",
+    "static/media/avatar-kady.jpg": "/Pixel-Perfect-Proj/static/media/avatar-kady.78fc482c1b331d912ca1.jpg",
+    "static/media/avatar-arthur.jpg": "/Pixel-Perfect-Proj/static/media/avatar-arthur.098c2e26b1c3fa071061.jpg",
+    "static/media/avatar-aiysha.jpg": "/Pixel-Perfect-Proj/static/media/avatar-aiysha.e119a0c1a5a4d6a6d0bb.jpg",
+    "index.html": "/Pixel-Perfect-Proj/index.html",
+    "main.a767ade8.css.map": "/Pixel-Perfect-Proj/static/css/main.a767ade8.css.map",
+    "main.94b178ab.js.map": "/Pixel-Perfect-Proj/static/js/main.94b178ab.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Pixel-Perfect-Proj/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a767ade8.css",
+    "static/js/main.94b178ab.js"
+  ]
+}
