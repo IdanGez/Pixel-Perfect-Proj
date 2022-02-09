@@ -1,0 +1,102 @@
+.app-header-layout {
+  width: 1440px;
+  height: 700px;
+  background-color: #014e56;
+}
+
+.app-header {
+  margin: 0 165px;
+
+  .app-header-container {
+    margin-top: 77px;
+  }
+  .my-team-container img {
+    height: 40px;
+    width: 160px;
+  }
+  .nav-home {
+    margin-left: 80px;
+    width: 49px;
+    height: 28px;
+    color: #ffffff;
+    font-family: "Livvic - Semi Bold";
+    font-size: 18px;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 28px;
+    text-align: left;
+  }
+  .nav-about {
+    width: 51px;
+    height: 28px;
+    color: #ffffff;
+    font-family: "Livvic - Semi Bold";
+    font-size: 18px;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 28px;
+    text-align: left;
+  }
+  .contact-us-btn {
+    margin-left: 577px;
+    width: 153px;
+    height: 48px;
+    border-radius: 24px;
+    border: 2px solid #ffffff;
+    background-color: inherit;
+  }
+
+  .contact-us-text {
+    width: 88px;
+    height: 28px;
+    color: #ffffff;
+    font-family: "Livvic - Semi Bold";
+    font-size: 18px;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 28px;
+    text-align: left;
+  }
+  .hero-title {
+    width: 635px;
+    height: 201px;
+    color: #ffffff;
+    font-family: "Livvic - Bold";
+    font-size: 100px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 100px;
+    text-align: left;
+  }
+  .hero-title-talent {
+    color: #f67e7e;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+  }
+
+  .hero-text {
+    width: 445px;
+    height: 109px;
+    color: #ffffff;
+    font-family: "Livvic - Semi Bold";
+    font-size: 18px;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 28px;
+    text-align: left;
+  }
+
+  .rectangle{
+    margin-bottom:79px;
+  }
+
+  .hero-container {
+    margin-top: 133px;
+  }
+}

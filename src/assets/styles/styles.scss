@@ -1,0 +1,14 @@
+// Basic
+@import "./basic/helpers.scss";
+@import "basics/base.scss";
+@import "basics/colors.scss";
+@import "setup/typography.scss";
+
+// Pages
+@import "pages/homepage.scss";
+
+// Components
+@import "components/header.scss";
+@import "components/delivering.scss";
+@import "components/build.scss";
+@import "components/contact-us.scss";
